@@ -1,0 +1,58 @@
+header {
+     text-align: right; 
+}
+
+h1{color: chartreuse;}
+h3,
+h2 {
+    color: burlywood;
+    border: solid black;
+}
+
+.boxtext {
+    text-align: right;
+    border: 7px aquamarine;
+    background-color: antiquewhite;
+    display: inline-block;
+    padding: 10px 30px 10px 30px;
+    margin: 20px;
+    color: brown;
+
+}
+
+h2 {
+    color: green;
+    border: cyan;
+    text-align: center;
+}
+
+p {
+    color: brown;
+}
+
+.bb {
+    color: crimson;
+}
+
+.c {
+    color: darkmagenta;
+}
+
+#div1 {
+    background-color: darkorchid;
+
+}
+
+#div2 {
+    background-color: deepskyblue;
+}
+
+h4 {
+    color: goldenrod;
+    background-color: greenyellow;
+    border: indigo;
+    text-decoration: lightcoral;
+    text-underline-position: below;
+    font: size 200;
+    font-style: italic;
+}

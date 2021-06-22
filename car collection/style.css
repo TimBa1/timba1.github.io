@@ -1,0 +1,41 @@
+h1{
+    display: inline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    border: yellowgreen;
+    color: tomato;
+    background-color: yellow;
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    transition: all 1s;
+}
+.contain{
+         display: flex;
+     margin: 20px;
+         flex-wrap: wrap;
+       
+}
+p{
+    font-family: fantasy;
+    font-style: italic;
+    color: violet;
+}
+img:hover{
+    transform: scale(1.1);}
+  h3{
+        color: rgb(101, 128, 94);
+        font-family: fantasy;
+    }
+    body{
+        background-color: rgb(221, 233, 238);
+
+    }
+    .fupa{
+        background-color:rgb(221, 233, 238) ;
+    }
+    .blue{justify-items:end;
+
+    }

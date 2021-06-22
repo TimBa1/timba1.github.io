@@ -1,0 +1,16 @@
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+p{
+    justify-content:center;
+    transition: all 1s;
+    font-size: larger;
+    
+}
+img:hover{
+    transform: scale(1.1);
+}

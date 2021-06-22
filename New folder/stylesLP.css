@@ -1,0 +1,63 @@
+.redzone{
+    background-color:white;
+}
+
+.bluezone{
+    background-color: steelblue;
+}
+.yellowzone{
+    background-color: yellowgreen;
+}
+.contact{
+    margin-left: auto;
+}
+body{
+    margin: auto 0
+    ;
+}
+.nav-bar{
+    display: flex;
+    list-style: none;
+    font-size: 0.8em;
+}
+li{
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    font-size: o.7em;
+    color: whitesmoke;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.wrapper{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+.imagezone> img{
+    width: 100px;
+}
+.imagezone{
+    background-color: black;
+    padding: 130px;
+    margin: 10px;
+}
+.new{
+    width: 30rem;
+}
+.sticky{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: rgb(105, 105, 218);
+}
+imagezone:hover{transform: scale(1.1)};
+footer{
+    margin: auto 0
+    ;
+}
